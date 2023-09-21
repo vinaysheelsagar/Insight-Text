@@ -1,4 +1,0 @@
-flask
-cohere
-numpy
-langchain
